@@ -1,0 +1,45 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Mon Dec 18 06:27:14 2023
+[*]
+[dumpfile] "/home/ubuntu/Lab/Lab4_caravel_fir/lab-caravel_fir/testbench/counter_la_fir/counter_la_fir.vcd"
+[dumpfile_mtime] "Mon Dec 18 05:55:29 2023"
+[dumpfile_size] 79677960
+[savefile] "/home/ubuntu/Lab/Lab4_caravel_fir/lab-caravel_fir/testbench/counter_la_fir/waveform_o3.gtkw"
+[timestart] 853667000
+[size] 1848 911
+[pos] -1 -1
+*-17.872662 854937500 850862500 851987500 853987500 853687500 854937500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[markername] Ainput x1
+[markername] Boutput y1
+[markername] Coutput y2
+[markername] Dinput x2
+[markername] Einput x3
+[treeopen] counter_la_fir_tb.
+[treeopen] counter_la_fir_tb.uut.
+[treeopen] counter_la_fir_tb.uut.mprj.
+[treeopen] counter_la_fir_tb.uut.mprj.mprj.
+[sst_width] 233
+[signals_width] 216
+[sst_expanded] 1
+[sst_vpaned_height] 252
+@200
+-
+@28
+counter_la_fir_tb.uut.mprj.mprj.clk
+counter_la_fir_tb.uut.mprj.mprj.wbs_cyc_i
+counter_la_fir_tb.uut.mprj.mprj.wbs_stb_i
+counter_la_fir_tb.uut.mprj.mprj.wbs_we_i
+@23
+counter_la_fir_tb.uut.mprj.mprj.wbs_adr_i[31:0]
+@28
+counter_la_fir_tb.uut.mprj.mprj.wbs_ack_o
+@22
+counter_la_fir_tb.uut.mprj.mprj.wbs_dat_o[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
+!100000@@
+?"3000
+@23
+counter_la_fir_tb.uut.mprj.mprj.wbs_adr_i[31:0]
+!!
